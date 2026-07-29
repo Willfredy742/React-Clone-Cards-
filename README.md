@@ -139,23 +139,11 @@ Abre tu navegador en [http://localhost:5173](http://localhost:5173) para ver la 
 | Recurso | Enlace |
 |---|---|
 | 📂 **Repositorio GitHub** | [github.com/Willfredy742/React-Clone-Cards-](https://github.com/Willfredy742/React-Clone-Cards-) |
-| 🌐 **Demo en Vercel** | *[Agregar enlace de Vercel aquí]* |
+| 🌐 **Demo en Vercel** | [react-clone-cards-pi.vercel.app](https://react-clone-cards-pi.vercel.app) |
 
 </div>
 
 > 📌 **Nota:** Reemplaza el enlace de Vercel con la URL de tu despliegue una vez disponible.
-
----
-
-## 📚 Aprendizajes del Proyecto
-
-Este proyecto refuerza los siguientes conceptos fundamentales de React:
-
-- ⚛️ **Creación de componentes funcionales** con JSX.
-- 📨 **Paso de datos mediante props** para hacer componentes dinámicos.
-- ♻️ **Reutilización de componentes** con datos diferentes.
-- 📂 **Organización modular** del código fuente.
-- 🖼️ **Importación dinámica de assets** con Vite (`import.meta.glob`).
 
 ---
 
